@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="763497ad-db59-4bc1-a408-c64abf212e29" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/Twitterapi2evApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/Twitterapi2evApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/controllers/ClassAdController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/controllers/ClassAdController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/dto/ClassAdDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/dto/ClassAdDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/dto/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/dto/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/jwt/JwtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/jwt/JwtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/persistence/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/persistence/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/persistence/repository/ClassAdRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/persistence/repository/ClassAdRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/security/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/security/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/security/RegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/security/RegisterRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/security/SecretKeyGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/services/ClassAdService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/services/ClassAdService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/services/ClassAdServiceI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/services/ClassAdServiceI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vedruna/twitterapi2ev/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/Twitterapi2evApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/Twitterapi2evApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/controllers/ClassAdController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/controllers/ClassAdController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/dto/ClassAdDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/dto/ClassAdDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/dto/UserDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/dto/UserDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/jwt/JwtService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/jwt/JwtService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/persistence/model/User$UserBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/persistence/model/User$UserBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/persistence/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/persistence/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/security/AuthService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/security/AuthService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/security/RegisterRequest$RegisterRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/security/RegisterRequest$RegisterRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/security/RegisterRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/security/RegisterRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/security/SecretKeyGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/services/ClassAdService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/services/ClassAdService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/services/ClassAdServiceI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/services/ClassAdServiceI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/services/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vedruna/twitterapi2ev/services/UserService.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2cS0hbz3uTsi9G5U9IClwcECESe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../server/ServicioFinalUDP2Ev" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Twitterapi2evApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vedruna.twitterapi2ev.Twitterapi2evApplication" />
+      <module name="twitterapi-2ev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vedruna.twitterapi2ev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Twitterapi2evApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="763497ad-db59-4bc1-a408-c64abf212e29" name="Changes" comment="" />
+      <created>1708089793184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708089793184</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
