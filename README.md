@@ -51,12 +51,12 @@ El proyecto sigue una arquitectura modular con los siguientes componentes princi
    git clone https://github.com/IgnacioRuiz01/api-TFG.git
    cd api-TFG
    ```
-2.**Compilar el Proyecto**:
+2. **Compilar el Proyecto**:
 ```bash
 javac -d bin src/**/*.java
 ```
 
-3.**Ejecutar el Proyecto**:
+3. **Ejecutar el Proyecto**:
 ```bash
 java -cp bin Main
 ```
