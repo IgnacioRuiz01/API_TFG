@@ -50,13 +50,16 @@ El proyecto sigue una arquitectura modular con los siguientes componentes princi
    ```bash
    git clone https://github.com/IgnacioRuiz01/api-TFG.git
    cd api-TFG
+   ```
 2.**Compilar el Proyecto**:
 ```bash
 javac -d bin src/**/*.java
+```
 
 3.**Ejecutar el Proyecto**:
 ```bash
 java -cp bin Main
+```
 
 ## Configuración
 
@@ -70,6 +73,7 @@ Configurar las Claves de API de Twitter (si aplica):
    TWITTER_API_SECRET_KEY=tu_api_secret_key
    TWITTER_ACCESS_TOKEN=tu_access_token
    TWITTER_ACCESS_TOKEN_SECRET=tu_access_token_secret
+   ```
 
 ## Uso
 
